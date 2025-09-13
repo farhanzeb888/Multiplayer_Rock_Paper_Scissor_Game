@@ -1,4 +1,4 @@
-🎮 Multiplayer Rock Paper Scissor Game
+# 🎮 Multiplayer Rock Paper Scissor Game
 
 A simple real-time multiplayer Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 
