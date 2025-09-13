@@ -7,7 +7,7 @@ A simple real-time multiplayer Rock-Paper-Scissors game built with HTML, CSS, an
 ![Web capture_13-9-2025_105513_](https://github.com/user-attachments/assets/bf7b752d-8d30-4ac3-92e6-41b9455a22cb)
 
 ---
-#Features
+# Features
 Two players can play Rock-Paper-Scissors simultaneously
 Clean, minimalist UI (HTML + CSS)
 Responsive design for different devices
