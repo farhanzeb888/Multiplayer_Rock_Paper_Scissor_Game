@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rock Paper Scissors - 2 Players</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="headings">
+        <h1>MULTIPLAYER-GAME</h1>
+  <h2>ROCK - PAPER - SCISSORS</h2>
+    </div>
+
+  <div class="player-container">
+    <div class="player1">
+    <h2 class="heading2">Player 1</h2>
+    <button onclick="makeChoice(1, 'rock')">👊</button>
+    <button onclick="makeChoice(1, 'paper')">✋</button>
+    <button onclick="makeChoice(1, 'scissor')">✌️</button>
+    <p id="choice1">Choice: ?</p>
+    <p id="score1">Score: 0</p>
+  </div>
+
+  <div class="player2">
+    <h2 class="heading2">Player 2</h2>
+    <button onclick="makeChoice(2, 'rock')">👊</button>
+    <button onclick="makeChoice(2, 'paper')">✋</button>
+    <button onclick="makeChoice(2, 'scissor')">✌️</button>
+    <p id="choice2">Choice: ?</p>
+    <p id="score2">Score: 0</p>
+  </div>
+  </div>
+
+  <div class="result" id="result"></div>
+  
+
+  <script src="script.js"></script>
+</body>
+</html>
