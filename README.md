@@ -1,6 +1,6 @@
 # 🎮 Multiplayer Rock Paper Scissor Game
 
-A simple real-time multiplayer Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
+A simple multiplayer Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 
 # Demo / Screenshots
 
